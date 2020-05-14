@@ -27,6 +27,9 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### A test from me
+
+![image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/zhoosch/rst-test/master/test.puml)
 
 ### Jekyll Themes
 
