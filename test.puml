@@ -1,0 +1,10 @@
+@startuml component
+actor client
+node app
+node knoten
+database db
+
+db -> app
+app -> client
+knoten -> client
+@enduml
