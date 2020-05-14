@@ -18,7 +18,6 @@ Preparation
 ===========
 
 .. code-block:: cpp
-  :lineos:
 
    /***************************************************************************//**
    * A brief history of Doxygen-style banner comments.
