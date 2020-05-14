@@ -35,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [**An doc markdown test**](./doc/README.md)
 
-[**An src rst test**](./src/README.md)
+[**An src rst test**](./src/README.rst)
 
 ### Jekyll Themes
 
