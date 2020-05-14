@@ -33,6 +33,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 [**Info getting startet with github pages.**](https://pages.github.com)
 
+[**An other test**](./doc/README.md)
 
 ### Jekyll Themes
 
